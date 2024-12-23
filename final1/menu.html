@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fixed Menu with Signup Button</title>
+    <style>
+        /* Basic reset */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        /* Body style */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        /* Fixed menu bar styling */
+        .navbar {
+            position: fixed;
+            top: 0;
+            width: 100%;
+            background-color: #f1f8f4; /* Adjust color as needed */
+            padding: 1rem 2rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            z-index: 1000;
+        }
+
+        /* Logo styling */
+        .navbar .logo {
+            font-size: 1.5rem;
+            color: #2e7d32; /* Adjust color as needed */
+            font-weight: bold;
+        }
+
+        /* Menu links styling */
+        .navbar .menu {
+            display: flex;
+            gap: 2rem;
+        }
+
+        .navbar .menu a {
+            text-decoration: none;
+            color: #333;
+            font-weight: 500;
+        }
+
+        .navbar .menu a:hover {
+            color: #2e7d32; /* Adjust hover color as needed */
+        }
+
+        /* Signup button styling */
+        .navbar .signup-btn {
+            padding: 0.5rem 1.5rem;
+            background-color: #2e7d32;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        .navbar .signup-btn:hover {
+            background-color: #1b5e20;
+        }
+
+        /* Placeholder content for scrolling */
+        .content {
+            padding-top: 100px; /* Space for fixed navbar */
+            padding: 2rem;
+            height: 2000px; /* Makes the page scrollable */
+            background-color: #f9f9f9;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Navbar -->
+    <nav class="navbar">
+        <div class="logo">ELocate</div>
+        <div class="menu">
+            <a href="#home">Home</a>
+            <a href="#about">About</a>
+            <a href="#e-facilities">E-Facilities</a>
+            <a href="#recycle">Recycle</a>
+            <a href="#education">Education</a>
+            <a href="#contact">Contact Us</a>
+            <a href="#rules">Rules</a>
+            <a href="#location">Aurangabad, Maharashtra</a>
+        </div>
+        <a href="#signup" class="signup-btn">SIGN UP</a>
+    </nav>
+
+    <!-- Page Content -->
+    <div class="content">
+        <h1>Welcome to ELocate</h1>
+        <p>Your technology partner for innovative and impactful E-Waste Facility Locator...</p>
+        <!-- Add more content here -->
+    </div>
+
+</body>
+</html>

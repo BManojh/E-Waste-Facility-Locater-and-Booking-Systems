@@ -1,0 +1,6 @@
+Array
+(
+    [razorpay_payment_id] => pay_PZ76VoogeF5330
+    [booking_id] => 
+    [customer_id] => CUST67640C
+)

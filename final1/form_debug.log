@@ -1,0 +1,143 @@
+Array
+(
+    [device] => dell
+    [price] => 1
+    [model] => dell1
+    [time] => 12:16
+    [location] => chennai
+    [date] => 2024-11-23
+    [phone] => 123
+    [facility] => M/s MG Traders
+)
+Array
+(
+    [device] => LAPTOP
+    [price] => 564
+    [model] => DELL
+    [time] => 19:31
+    [location] => kanchipuram
+    [date] => 2024-11-29
+    [phone] => 8884
+    [facility] => M/s Earth Sense Recycle Private Limited
+)
+Array
+(
+    [device] => lenova
+    [price] => 1
+    [model] => 12
+    [time] => 21:58
+    [location] => chengalpattu
+    [date] => 2024-11-21
+    [phone] => 123
+    [facility] => M/s Blooming Recyclers
+)
+Array
+(
+    [device] => lenova
+    [price] => 1
+    [model] => 12
+    [time] => 21:58
+    [location] => chennai
+    [date] => 2024-11-21
+    [phone] => 123
+    [facility] => M/s Ecosible Recyclers Pvt Ltd
+)
+Array
+(
+    [device] => computers
+    [price] => 25000
+    [model] => samsung
+    [time] => 00:10
+    [location] => tiruvallur
+    [date] => 2024-11-28
+    [phone] => 6358364989
+    [facility] => M/s Ponniamman Enterprises
+)
+Array
+(
+    [device] => LAPTOP
+    [price] => 55000
+    [model] => hp
+    [time] => 12:18
+    [location] => trichy
+    [date] => 2024-11-29
+    [phone] => 637894568
+    [facility] => M/s Micro E–Waste Recyclers
+)
+Array
+(
+    [device] => mobile
+    [price] => 7500
+    [model] => oppo
+    [time] => 00:27
+    [location] => coimbatore
+    [date] => 2024-11-28
+    [phone] => 1234567865
+    [facility] => M/s Green Era Recyclers
+)
+Array
+(
+    [device] => computers
+    [price] => 25700
+    [model] => samsung
+    [time] => 00:32
+    [location] => chengalpattu
+    [date] => 2024-11-22
+    [phone] => 6894657812
+    [facility] => M/s Blooming Recyclers
+)
+Array
+(
+    [device] => mobile
+    [price] => 345
+    [model] => redmi
+    [time] => 13:41
+    [location] => erode
+    [date] => 2024-11-06
+    [phone] => 2345678912
+    [facility] => M/s Tharani Electronics Waste
+)
+Array
+(
+    [device] => mobile phone
+    [price] => 5000
+    [model] => vivo
+    [time] => 13:46
+    [location] => trichy
+    [date] => 2024-11-26
+    [phone] => 1234567898
+    [facility] => M/s Micro E–Waste Recyclers
+)
+Array
+(
+    [device] => mobile
+    [price] => 55000
+    [model] => vivo
+    [time] => 14:40
+    [location] => salem
+    [date] => 2024-11-29
+    [phone] => 142552252
+    [facility] => M/s John Firm
+)
+Array
+(
+    [device] => computer
+    [price] => 55000
+    [model] => samsung
+    [time] => 16:13
+    [location] => chennai
+    [date] => 2024-11-29
+    [phone] => 1234567890
+    [facility] => M/s Green E Waste Private Limited
+)
+Array
+(
+    [device] => batteries
+    [price] => 550
+    [model] => HW
+    [time] => 14:00
+    [location] => chennai
+    [date] => 2024-11-28
+    [phone] => 123456789012
+    [facility] => M/s K.P.P enterprises
+)
